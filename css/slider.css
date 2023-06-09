@@ -1,3 +1,7 @@
+.paleta {
+  color: #6b7b40, #859340, #c7d955, #f2f0d4, #6b4a40;
+}
+
 .sectionSlider {
   display: flex;
   position: relative;
